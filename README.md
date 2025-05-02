@@ -38,3 +38,17 @@
 
 # ER-Диаграмма
 ![image](https://github.com/user-attachments/assets/ba6c3060-3f13-49e1-bbfd-cd198a8b44ea)
+
+# Диаграмма основных действий приложения
+![image](https://github.com/user-attachments/assets/f6c4a527-2cad-4a7d-9ffa-50622f7d1fb9)
+
+# Согласование магических строк
+| Поле           | -> | Описание                                        |
+| -------------- | -- | ----------------------------------------------- |
+| `id`           | -> | id                                              |
+| `model`        | -> | carModel                                        |
+| `color`        | -> | color                                           |
+| `price`        | -> | price                                           |
+| `body_style`   | -> | bodyType                                        |
+| `transmission` | -> | transmission                                    |
+| `dealer_id`    | -> | dealerId                                        |
