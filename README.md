@@ -65,62 +65,9 @@
 ![image](https://github.com/user-attachments/assets/6a234d70-6251-4315-885a-d5587af4636f)
 
 # Создание семантического профиля
-{
-  "items": [
-    {
-      "id": 1,
-      "model": "Toyota Corolla",
-      "color": "Синий",
-      "price": 19500.0,
-      "body_style": "Sedan",
-      "transmission": "Автомат",
-      "dealer": {
-        "id": 2,
-        "dealer_no": "DLR002",
-        "name": "Тойота Центр",
-        "region": {
-          "region_name": "Центральный"
-        }
-      }
-    },
-    ...
-  ]
-}
+![image](https://github.com/user-attachments/assets/057751ca-0570-4882-a6cb-e798e7973c14)
+
 
 # Преобразование к hypermedia
-{
-  "_links": {
-    "self": { "href": "/cars" }
-  },
-  "_embedded": {
-    "cars": [
-      {
-        "id": 1,
-        "model": "Toyota Corolla",
-        "color": "Синий",
-        "price": 19500.0,
-        "body_style": "Sedan",
-        "transmission": "Автомат",
-        "_links": {
-          "self": { "href": "/cars/1" },
-          "dealer": { "href": "/dealers/2" }
-        },
-        "dealer": {
-          "id": 2,
-          "dealer_no": "DLR002",
-          "name": "Тойота Центр",
-          "_links": {
-            "self": { "href": "/dealers/2" },
-            "region": { "href": "/regions/Центральный" }
-          },
-          "region": {
-            "region_name": "Центральный",
-            "_links": {
-              "self": { "href": "/regions/Центральный" }
-            }
-          }
-        }
-      }
-    ]
-  }
-}
+![image](https://github.com/user-attachments/assets/3fbf044d-8de1-440c-bfec-d8cd156b337e)
+
