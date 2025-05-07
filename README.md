@@ -61,7 +61,8 @@
 | `delete-car`   | -> | delete-item                                     |
 
 # Диаграмма после согласования имен
-![image](https://github.com/user-attachments/assets/6a234d70-6251-4315-885a-d5587af4636f)
+![image](https://github.com/user-attachments/assets/014a6ce0-111d-4602-b0da-c65bd68fcb30)
+
 
 # Создание семантического профиля
 ![image](https://github.com/user-attachments/assets/057751ca-0570-4882-a6cb-e798e7973c14)
