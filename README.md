@@ -40,7 +40,8 @@
 ![image](https://github.com/user-attachments/assets/ba6c3060-3f13-49e1-bbfd-cd198a8b44ea)
 
 # Диаграмма основных действий приложения
-![image](https://github.com/user-attachments/assets/f6c4a527-2cad-4a7d-9ffa-50622f7d1fb9)
+![image](https://github.com/user-attachments/assets/68972a86-cb3f-429e-a226-bdf912a64569)
+
 
 # Согласование магических строк
 | Поле           | -> | Описание                                        |
@@ -61,7 +62,8 @@
 | `delete-car`   | -> | delete-item                                     |
 
 # Диаграмма после согласования имен
-![image](https://github.com/user-attachments/assets/014a6ce0-111d-4602-b0da-c65bd68fcb30)
+![image](https://github.com/user-attachments/assets/b0494229-ec44-4c56-b85e-abe97a4fde5f)
+
 
 
 # Создание семантического профиля
