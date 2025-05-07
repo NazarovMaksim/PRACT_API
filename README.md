@@ -37,7 +37,8 @@
 | `region_name` | `String` (PK) | Название региона, например: "Центральный" |
 
 # ER-Диаграмма
-![image](https://github.com/user-attachments/assets/ba6c3060-3f13-49e1-bbfd-cd198a8b44ea)
+![image](https://github.com/user-attachments/assets/b4471b4e-31cb-4b7e-9b2f-9b5095a07ad7)
+
 
 # Диаграмма основных действий приложения
 ![image](https://github.com/user-attachments/assets/68972a86-cb3f-429e-a226-bdf912a64569)
